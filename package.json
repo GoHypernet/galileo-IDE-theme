@@ -1,0 +1,21 @@
+{
+    "name": "galileo-theme",
+    "displayName": "galileo-theme",
+    "description": "A custom theme for Galileo",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "galileo-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/galileo-theme-color-theme.json"
+            }
+        ]
+    }
+}
