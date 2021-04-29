@@ -1,6 +1,4 @@
 # README
-## Prerequisites
-* Install Code Insiders https://code.visualstudio.com/insiders/
 
 ## What's in the folder
 
@@ -10,7 +8,6 @@
 
 ## Get up and running straight away
 
-* Open the project with Code Insiders.
 * Press `F5` to open a new window with your extension loaded.
 * Open `File > Preferences > Color Themes` and pick your color theme.
 * Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Inspect TM Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) .
