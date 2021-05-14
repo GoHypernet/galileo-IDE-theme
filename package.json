@@ -1,6 +1,8 @@
 {
     "name": "galileo-theme",
-    "displayName": "galileo-theme",
+    "displayName": "Galileo Theme",
+    "publisher": "Hypernetlabs",
+    "repository": {"url": "https://github.com/GoHypernet/galileo-IDE-theme"},
     "description": "A custom theme for Galileo",
     "version": "0.0.1",
     "engines": {
@@ -9,12 +11,19 @@
     "categories": [
         "Themes"
     ],
+    "icon": "assets/images/h-logo.png",
+    "license": "MIT",
     "contributes": {
         "themes": [
             {
-                "label": "galileo-theme",
+                "label": "Galileo Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/galileo-theme-color-theme.json"
+                "path": "./themes/dark.json"
+            },
+            {
+                "label": "Galileo Light",
+                "uiTheme": "vs",
+                "path": "./themes/light.json"
             }
         ]
     }

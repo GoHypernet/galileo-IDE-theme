@@ -1,11 +1,18 @@
 {
-	"name": "galileo-theme",
+	"name": "Galileo Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#354962",
-		"editor.foreground": "#4dc1ab",
-		"activityBarBadge.background": "#4dc1ab",
-		"sideBarTitle.foreground": "#4dc1ab"
+		"editor.background": "#333645",
+		"sideBar.background": "#424556",
+		"tab.activeBackground": "#333645",
+		"tab.inactiveBackground": "#4B4E61",
+		"editorGroupHeader.tabsBackground": "#424556",
+		"editorGroup.border": "#424556",
+		"tab.border": "#424556",
+		"statusBar.background": "#4B4E61",
+		"button.background": "#424556",
+		"button.border": "#333645",
+		"button.hoverBackground": "#333645"
 	},
 	"tokenColors": [
 		{
