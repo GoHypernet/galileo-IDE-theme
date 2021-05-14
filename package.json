@@ -4,7 +4,7 @@
     "publisher": "Hypernetlabs",
     "repository": {"url": "https://github.com/GoHypernet/galileo-IDE-theme"},
     "description": "A custom theme for Galileo",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.55.0"
     },
