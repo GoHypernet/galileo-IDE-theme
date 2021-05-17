@@ -1,4 +1,6 @@
-# README
+![alt](./galileo_pres.png)
+
+# Galileo IDE Theme
 
 ## What's in the folder
 
