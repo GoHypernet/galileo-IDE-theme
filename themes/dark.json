@@ -12,7 +12,8 @@
 		"statusBar.background": "#4B4E61",
 		"button.background": "#424556",
 		"button.border": "#333645",
-		"button.hoverBackground": "#333645"
+		"button.hoverBackground": "#272935",
+		"icon.foreground": "#ffffff"
 	},
 	"tokenColors": [
 		{

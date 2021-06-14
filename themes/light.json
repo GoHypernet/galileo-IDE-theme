@@ -17,14 +17,16 @@
 		"button.foreground": "#1D1D1DDE",
 		"button.hoverBackground": "#01D8BB",
 		"icon.foreground": "#F9F9F9",
-		"textLink.foreground": "#00C3A9",
 		"window.activeBorder": "#F9F9F9",
 		"activityBar.background": "#273D55",
 		"list.hoverBackground": "#273D55",
 		"list.activeSelectionBackground": "#273D55",
 		"list.focusOutline": "#273D55",
 		"list.inactiveSelectionBackground": "#273D55",
-		"toolbar.hoverBackground": "#01D8BB"
+		"toolbar.hoverBackground": "#01D8BB",
+		"settings.headerForeground": "#ffff",
+		"inputValidation.warningBackground": "#FDE68A",
+		"inputValidation.warningForeground": "#374151"
 	},
 	"tokenColors": [
 		{
